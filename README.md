@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there <img width="48" height="48" src="https://img.icons8.com/emoji/48/man-technologyst.png" alt="man-technologyst"/>
 
-<!--
-**dev-vinicius-lima/dev-vinicius-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Vinicius Lima, sou um Programador Front-End, atualmente estou aprendendo e criando projetos com: <br/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><br/> <br/> <br/>
 
-Here are some ideas to get you started:
+Entre em contato:<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.instagram.com/viniciuslimaof"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
+<a href = "https://wa.me/5592985051739"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
+<a href = "https://www.linkedin.com/in/vinicius-lima-83b427223/"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/> </a> <br/>
+
+
+
+![dev-vinicius-lima](https://github-readme-stats.vercel.app/api?username=dev-vinicius-lima&show_icons=true&theme=dracula) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vinicius-lima)](https://github.com/dev-vinicius-lima/github-readme-stats)
+
+
+
