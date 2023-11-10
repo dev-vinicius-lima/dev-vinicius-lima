@@ -8,8 +8,8 @@ Eu sou o Vinicius Lima, sou um Programador Front-End, atualmente estou aprendend
 Entre em contato:<br/>
 
 <a href="https://www.instagram.com/viniciuslimaof" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/></a>
-<a href = "https://wa.me/5592985051739" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
-<a href = "https://www.linkedin.com/in/vinicius-lima-83b427223/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/> </a> <br/>
+<a href ="https://wa.me/5592985051739" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/>
+<a href ="https://www.linkedin.com/in/vinicius-lima-83b427223/" target="_blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/> </a> <br/>
 
 
 
