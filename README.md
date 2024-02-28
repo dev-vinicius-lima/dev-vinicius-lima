@@ -1,7 +1,7 @@
 ### Olá eu sou o Vinicius Lima 👋🏼
 
-Email: viniciuslimaes@hotmail.com <br/>
-Gmail: vinciusfhlima@gmail.com
+✉️Email: viniciuslimaes@hotmail.com <br/>
+✉️Gmail: vinciusfhlima@gmail.com
 
 [![linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lima-83b427223/)  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuslimaof/)  [![Whatshapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592985051739 ) [!
 
