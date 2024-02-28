@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+eu+sou+o+Vinicius+Lima!+;Desenvolvedor+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=5000&color=18F724&random=false&width=435&lines=Ol%C3%A1+sou+o+Vinicius+Lima!;Desenvolvedor+Front-End)](https://git.io/typing-svg)
+#18F724FF
 
 ✉️Email: viniciuslimaes@hotmail.com <br/>
 ✉️Gmail: vinciusfhlima@gmail.com
 
 [![linkedlin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-lima-83b427223/)  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://www.instagram.com/viniciuslimaof/)  [![Whatshapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592985051739 )
 
-
-![Vinicius Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-vinicius-lima&show_icons=true&theme=dracula)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-vinicius-lima&theme=dracula&hide_border=falso&border_radius=5&card_width=400)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vinicius-lima&hide_progress=true)
 
