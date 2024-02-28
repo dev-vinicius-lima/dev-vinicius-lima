@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=5000&color=18F724&random=false&width=435&lines=Ol%C3%A1+sou+o+Vinicius+Lima!;Desenvolvedor+Front-End)](https://git.io/typing-svg)
-#18F724FF
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0077B5&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1+sou+o+Vinicius+Lima!;Desenvolvedor+Front-End)](https://git.io/typing-svg)
+
 
 ✉️Email: viniciuslimaes@hotmail.com <br/>
 ✉️Gmail: vinciusfhlima@gmail.com
