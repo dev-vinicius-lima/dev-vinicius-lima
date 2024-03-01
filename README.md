@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-vinicius-lima&theme=github-dark-blue&border_radius=5)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vinicius-lima&hide_progress=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vinicius-lima&layout=compact&langs_count=6&theme=tokyonight"/>
 
 ### 🚀 Hard - Skills
 
