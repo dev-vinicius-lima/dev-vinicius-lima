@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=1000&&multiline=true&repeat=false&random=false&width=435&height=77&lines=Ol%C3%A1+sou+o+Vinicius+Lima!;Desenvolvedor+Front-End)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=22&pause=1000&&multiline=true&repeat=false&random=false&width=435&height=77&lines=Ol%C3%A1+sou+o+Vinicius+Lima!;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
 
 ### My social networks
 ✉️Email: viniciuslimaes@hotmail.com <br/>
